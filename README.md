@@ -1,7 +1,3 @@
-A good `README.md` file provides clear and concise information to help others understand your project, its purpose, how to use it, and how to contribute. Below is a template you can use for your Flask server project:
-
----
-
 # Flask Server for Patient Portal
 
 This project is a basic **Flask** server that serves as the backend for a Patient Portal. The server is deployed on **Heroku** and interacts with client-side frontends. The server is lightweight and easy to set up, making it ideal for small applications or proof-of-concepts.
@@ -107,7 +103,3 @@ $ python app.py
 # Expected output:
 # * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
-
----
-
-This template provides a detailed explanation of the project and its setup while remaining concise. You can adjust the contact information, routes, and other project details as needed based on the specific features you’re adding to your server. Let me know if you need help adjusting any sections!
